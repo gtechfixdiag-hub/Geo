@@ -1,0 +1,12 @@
+{
+  "_note": "George fills these in. The assistant may ONLY use links listed here. Set affiliate=true for affiliate links so the disclosure is added.",
+  "links": [
+    { "topic": "LLC formation service", "name": "", "url": "", "affiliate": true },
+    { "topic": "Business bank account", "name": "", "url": "", "affiliate": true },
+    { "topic": "Personal bank / credit builder", "name": "", "url": "", "affiliate": true },
+    { "topic": "Phone plan", "name": "", "url": "", "affiliate": true },
+    { "topic": "Money transfer", "name": "", "url": "", "affiliate": true },
+    { "topic": "Website / domain", "name": "", "url": "", "affiliate": true },
+    { "topic": "Free library learning (no affiliate)", "name": "Your local public library eResources", "url": "", "affiliate": false }
+  ]
+}
