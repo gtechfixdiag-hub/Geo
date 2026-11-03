@@ -4,20 +4,10 @@ AI assistant trained on George's experience: life in the US for newcomers, free 
 through public libraries (LinkedIn Learning, Udemy via Gale), business and self-development.
 **No immigration topics.** Monthly subscription with credits that renew each month.
 
-## Wix site (created)
-- Site name: Ask George
-- metaSiteId: `e2af5be4-c077-46ab-89d3-6975ad8c3a8e`
-- Headless OAuth appId (public client id): `4a9e3633-888e-4f2a-ae15-472222a0a98c`
-- Dashboard: https://manage.wix.com/dashboard/e2af5be4-c077-46ab-89d3-6975ad8c3a8e/pricing-plans
-
-## Plans (live in Wix Pricing Plans, USD)
-| Plan | Price | Credits | id |
-|---|---|---|---|
-| Basic — الأساسي | $10/month | 100 / month | `6c1abc16-5127-49c4-9fba-656312ce940c` |
-| Pro — المحترف | $25/month | 300 / month | `faff3970-a938-404d-872a-aad9ab5c7d4d` |
-| Top-up — كريديت إضافي | $5 once | +40 | `a5d82b02-e457-4a74-bf2e-ac5cf4d88d2c` |
-
-Credit cost: normal question = 1, full plan = 5. Monthly credits reset on each renewal.
+## Where it lives
+Ask George runs inside the existing **George Nabill** Wix site (Velo backend).
+See `velo/SETUP.md` for plan ids, CMS collections and setup steps.
+The earlier standalone "Ask George" headless site was moved to the Wix trash.
 
 ## Architecture
 1. **Wix** — members login, pricing plans + hosted checkout, CMS collections:
